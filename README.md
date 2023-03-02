@@ -14,7 +14,7 @@
 ## Description 
 This creates a simple text editor that saves text input on and offline. This app was created using PWA. 
 
-[Deployed Application](https://techblogjh-app.herokuapp.com/)
+[Deployed Application](https://texteditorpwajh.herokuapp.com/)
 
 
 
