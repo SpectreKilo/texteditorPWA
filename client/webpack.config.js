@@ -30,9 +30,9 @@ module.exports = () => {
 //        filename: 'manifest.json',
 // comment out fingerprints??
         fingerprints: false,
-        name: 'Werd-to-the-Words',
+        name: 'pwatexteditor',
         inject: true,
-        short_name: 'W2theWords',
+        short_name: 'txteditor',
         description: 'A simple text editor!',
         background_color: '#00ccff',
         start_url: '/',
